@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "CiSS 2.0 — Circular Sustainability Scorecard"
+abstract: >
+  Generic computational algorithm for measuring the degree of balance
+  between circular sustainability dimensions in organizations of any sector.
+  Based on Porto (2021), formalized under Ijiri's (1975) axiomatic measurement theory.
+authors:
+  - family-names: "SEU SOBRENOME"
+    given-names: "SEU NOME"
+    orcid: "https://orcid.org/SEU-ORCID"
+    affiliation: "Universidade Federal de Pernambuco — UFPE"
+repository-code: "https://github.com/SEU_USUARIO/ciss2-circular-sustainability-scorecard"
+license: CC-BY-4.0
+version: "2.0.0"
+date-released: "2025-07-01"
+keywords:
+  - circular economy
+  - sustainability measurement
+  - Gini coefficient
+  - Lorenz curve
+  - multiple bottom line
+  - ESG
+  - Python
+references:
+  - type: article
+    authors:
+      - family-names: "Porto"
+        given-names: "R. L."
+    title: "Circular Sustainability Scorecard (CiSS)"
+    year: 2021
+    institution:
+      name: "Universidade Federal de Pernambuco"
