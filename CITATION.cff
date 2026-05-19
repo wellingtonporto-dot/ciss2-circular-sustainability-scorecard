@@ -7,11 +7,11 @@ abstract: >
   between circular sustainability dimensions in organizations of any sector.
   Based on Porto (2021), formalized under Ijiri's (1975) axiomatic measurement theory.
 authors:
-  - family-names: "SEU SOBRENOME"
-    given-names: "SEU NOME"
-    orcid: "https://orcid.org/SEU-ORCID"
+  - family-names: "PORTO"
+    given-names: "WELLINGTON SILVA"
+    orcid: "https://orcid.org/0000-0002-0289-9422"
     affiliation: "Universidade Federal de Pernambuco — UFPE"
-repository-code: "https://github.com/SEU_USUARIO/ciss2-circular-sustainability-scorecard"
+repository-code: "https://github.com/wellingtonporto-dot/ciss2-circular-sustainability-scorecard"
 license: CC-BY-4.0
 version: "2.0.0"
 date-released: "2025-07-01"
@@ -27,7 +27,7 @@ references:
   - type: article
     authors:
       - family-names: "Porto"
-        given-names: "R. L."
+        given-names: "W. S."
     title: "Circular Sustainability Scorecard (CiSS)"
     year: 2021
     institution:
