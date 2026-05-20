@@ -24,8 +24,8 @@ python ciss2.py --generic    # runs 5-dimension generic example
 If you use this software in your research, please cite it using the
 information in CITATION.cff or as:
 
-> Author (2025). CiSS 2.0 — Circular Sustainability Scorecard [Software].
-> Zenodo. https://doi.org/[DOI WILL BE ADDED AFTER ZENODO DEPOSIT]
+> Porto (2026). CiSS 2.0 — Circular Sustainability Scorecard [Software].
+> Zenodo. https://doi.org/10.5281/zenodo.20299482
 
 ## License
 Creative Commons Attribution 4.0 International (CC BY 4.0)
