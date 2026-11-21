@@ -1,0 +1,1014 @@
+{
+ "WEG": {
+  "GV1": {
+   "c": [
+    1,
+    0,
+    1,
+    1
+   ],
+   "pag": "10-11 (política); 13 (circularidade); 11, 23 (metas)",
+   "nota": "C2: o relatório não diz que o Conselho aprova a política de sustentabilidade (só a de riscos, p.150); coordenador do comitê apresenta andamento ao Conselho (p.11).",
+   "total": 3
+  },
+  "GV2": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "179 (índice GRI); 174-175, 190 (SASB); 193-198 (TCFD); 199-200 (asseguração limitada)",
+   "nota": "",
+   "total": 4
+  },
+  "GV3": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "197 (riscos climáticos avaliados anualmente pelo Conselho); 10-11 (comitê de sustentabilidade); 15, 62 (risco hídrico)",
+   "nota": "",
+   "total": 4
+  },
+  "GV5": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "22-23 (código de ética para fornecedores); 53, 57 (critérios de sustentabilidade); 54 (visitas in loco); 59 (100% dos estratégicos avaliados)",
+   "nota": "",
+   "total": 4
+  }
+ },
+ "Allos": {
+  "GV1": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "36-37 (políticas aprovadas pelo Conselho; política de sustentabilidade); 112, 126 (circularidade); 11, 20 (metas ESG 2030)",
+   "nota": "",
+   "total": 4
+  },
+  "GV2": {
+   "c": [
+    1,
+    1,
+    1,
+    0
+   ],
+   "pag": "151 (índice GRI); 6, 138-139 (SASB); 48-49 (IFRS S1/S2, TCFD); 151 (2-5: verificação externa 'não há')",
+   "nota": "",
+   "total": 3
+  },
+  "GV3": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "47, 106 (matriz de riscos aprovada pelo Conselho, riscos ESG); 20, 39 (comissão/comitê de sustentabilidade e de auditoria e gestão de riscos); 119 (seca, escassez hídrica)",
+   "nota": "",
+   "total": 4
+  },
+  "GV5": {
+   "c": [
+    1,
+    1,
+    1,
+    0
+   ],
+   "pag": "37, 105 (código de conduta do fornecedor, aprovado em 2024); 105 (critérios ambientais); 132 (due diligence ESG monitorada)",
+   "nota": "C4: percentual de fornecedores avaliados não localizado.",
+   "total": 3
+  }
+ },
+ "Ambev": {
+  "GV1": {
+   "c": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "pag": "5, 22, 29 (economia circular, metas de sustentabilidade 2025)",
+   "nota": "Política de sustentabilidade explícita não localizada no relatório. Regra de codificação: C1 exige política explícita; C3 e C4 são avaliados no instrumento formal de sustentabilidade descrito (política ou estratégia/compromissos).",
+   "total": 2
+  },
+  "GV2": {
+   "c": [
+    0,
+    1,
+    1,
+    1
+   ],
+   "pag": "2-3, 79-85 (SASB); 28 (TCFD); 76-78 (asseguração limitada)",
+   "nota": "Sem referência à GRI no relatório.",
+   "total": 3
+  },
+  "GV3": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "31 (matriz de riscos de sustentabilidade e climáticos); 28, 30 (comitê de sustentabilidade; reporte ao Conselho); 31 (escassez hídrica)",
+   "nota": "",
+   "total": 4
+  },
+  "GV5": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "40, 57 (política global de fornecimento responsável; código de conduta); 40 (cláusulas socioambientais); 40 (auditorias); 40 (100% das transportadoras auditadas)",
+   "nota": "C4 aceito pelo percentual de transportadoras auditadas.",
+   "total": 4
+  }
+ },
+ "Auren": {
+  "GV1": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "17, 43 (política de sustentabilidade aprovada pelo Conselho, atualizada em 2024); 18 (circularidade); 17-18 (compromissos 2030)",
+   "nota": "",
+   "total": 4
+  },
+  "GV2": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "110, 117 (GRI); 103, 117 (SASB); 20, 119 (IFRS S1/S2, TCFD); 6, 124-125 (asseguração externa Bureau Veritas)",
+   "nota": "",
+   "total": 4
+  },
+  "GV3": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "48, 120 (mapa de riscos com categorias socioambientais; gerência de riscos); 67, 74 (risco hídrico e resíduos); 119-120 (Conselho aprova e acompanha)",
+   "nota": "",
+   "total": 4
+  },
+  "GV5": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "51 (código de conduta obrigatório a fornecedores); 36 (critérios, 308-1); 36 (due diligence); 18-19 (100% dos fornecedores homologados avaliados)",
+   "nota": "",
+   "total": 4
+  }
+ },
+ "AXS": {
+  "GV1": {
+   "c": [
+    1,
+    0,
+    0,
+    0
+   ],
+   "pag": "29 (política formaliza compromisso socioambiental)",
+   "nota": "Aprovação pelo Conselho e metas associadas não localizadas; OCR. Economia circular citada só na mensagem (p.5), fora de instrumento formal.",
+   "total": 1
+  },
+  "GV2": {
+   "c": [
+    1,
+    1,
+    0,
+    0
+   ],
+   "pag": "82-90 (índice GRI); 4, 91-92 (SASB, incorporação gradativa); p.4: sem verificação externa independente; sem TCFD/ISSB",
+   "nota": "",
+   "total": 2
+  },
+  "GV3": {
+   "c": [
+    1,
+    1,
+    1,
+    0
+   ],
+   "pag": "16-17, 22 (gestão de riscos socioambientais, riscos climáticos nos comitês internos); 34 (risco hídrico)",
+   "nota": "C4: conselho consultivo sem envolvimento direto; acompanhamento pelo Conselho não evidenciado.",
+   "total": 3
+  },
+  "GV5": {
+   "c": [
+    0,
+    1,
+    1,
+    1
+   ],
+   "pag": "60, 88 (critérios ambientais, 308-1); 25 (100% em due diligence); 60 (24% de novos fornecedores homologados)",
+   "nota": "C1: não localizado código de conduta específico para fornecedores (apenas 'cartilhas e políticas de integridade', p.25).",
+   "total": 3
+  }
+ },
+ "Azzas": {
+  "GV1": {
+   "c": [
+    1,
+    0,
+    1,
+    1
+   ],
+   "pag": "78 (política de sustentabilidade); 18-19, 72 (circularidade); 4-5, 93-95 (metas SBTi)",
+   "nota": "C2: aprovação da política pelo Conselho não localizada (p.24 diz que o Conselho lidera a governança ESG).",
+   "total": 3
+  },
+  "GV2": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "3, 167 (GRI); 3, 87-92 (SASB); 3, 185 (TCFD); 81-84 (asseguração limitada KPMG)",
+   "nota": "",
+   "total": 4
+  },
+  "GV3": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "95 (matriz de riscos climáticos revisada anualmente pelo comitê de riscos, auditoria e finanças); 22-23 (comitês); 79, 89 (risco hídrico, resíduos); 24 (Conselho lidera ESG)",
+   "nota": "",
+   "total": 4
+  },
+  "GV5": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "57-58 (código de conduta para fornecedores); 30, 88 (critérios, 308-1); 57 (78% auditados); 57 (percentuais divulgados)",
+   "nota": "",
+   "total": 4
+  }
+ },
+ "C&A": {
+  "GV1": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "32 (política de sustentabilidade, documentos aprovados pelo Conselho); 2, 30 (circularidade); 30 (metas ASG 2030)",
+   "nota": "",
+   "total": 4
+  },
+  "GV2": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "155 (GRI); 4, 151, 162 (SASB); 4, 36-39 (TCFD); 155, 167 (asseguração limitada)",
+   "nota": "",
+   "total": 4
+  },
+  "GV3": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "36 (matriz de riscos aprovada pelo Conselho, risco climático); 26-28 (comitê de gente & ASG); 71, 80, 162 (riscos de matérias-primas e fatores ambientais/sociais); 36",
+   "nota": "",
+   "total": 4
+  },
+  "GV5": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "103 (código de conduta para fornecedores); 99, 102 (critérios socioambientais); 100-101 (auditorias); 99-100 (100% selecionados por critérios; 100% tier 1 auditados)",
+   "nota": "",
+   "total": 4
+  }
+ },
+ "CBA": {
+  "GV1": {
+   "c": [
+    1,
+    0,
+    1,
+    1
+   ],
+   "pag": "114 (política de sustentabilidade); 10, 108 (circularidade do alumínio); 31, 37 (metas)",
+   "nota": "C2: p.124 diz que políticas são aprovadas pelo Conselho ou Diretoria, sem especificar a de sustentabilidade.",
+   "total": 3
+  },
+  "GV2": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "155-168 (GRI); 7, 103-105 (SASB); 7, 83, 93 (TCFD); 8 (verificação externa)",
+   "nota": "",
+   "total": 4
+  },
+  "GV3": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "83 (mapa de riscos climáticos); 120-121 (comitê de sustentabilidade apoia o Conselho); 162, 174 (riscos hídricos); 120",
+   "nota": "",
+   "total": 4
+  },
+  "GV5": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "139 (código de conduta para fornecedores); 37, 139 (critérios ESG); 142 (auditoria integrada); 37, 139 (100% homologados com critérios ESG)",
+   "nota": "",
+   "total": 4
+  }
+ },
+ "Cemig": {
+  "GV1": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "112 (políticas ambiental, de biodiversidade e de recursos hídricos); 136 (aprovação de políticas pelo Conselho); 9, 26 (economia circular); 27 (compromissos públicos monitorados)",
+   "nota": "",
+   "total": 4
+  },
+  "GV2": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "144 (GRI); 143, 156 (SASB); 136 (TCFD); 4, 138, 158 (carta de asseguração)",
+   "nota": "",
+   "total": 4
+  },
+  "GV3": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "50 (matriz de riscos); 48 (comitê de riscos do Conselho); 123, 126 (riscos hídricos, efluentes e resíduos); 48, 70 (Conselho acompanha)",
+   "nota": "",
+   "total": 4
+  },
+  "GV5": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "97 (código de conduta); 93 (critérios ESG na seleção); 94-95 (auditorias e monitoramento); 93, 96 (100% dos novos selecionados com critérios sociais)",
+   "nota": "",
+   "total": 4
+  }
+ },
+ "Cogna": {
+  "GV1": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "63 (política de meio ambiente e mudanças climáticas validada pelo Conselho); 61 (gestão de resíduos); 31, 119 (metas ESG)",
+   "nota": "C3 aceito pelo tratamento de resíduos no instrumento ambiental; circularidade não citada.",
+   "total": 4
+  },
+  "GV2": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "152 (GRI); 156-164 (SASB); 6, 161 (TCFD); 6, 162 (asseguração KPMG)",
+   "nota": "",
+   "total": 4
+  },
+  "GV3": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "116, 126 (aspectos ESG na matriz de riscos); 28, 116 (comitê de pessoas e ESG); 61 (riscos ambientais e de resíduos); 28, 116, 161 (Conselho acompanha)",
+   "nota": "",
+   "total": 4
+  },
+  "GV5": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "115, 149 (código de conduta para fornecedores); 18, 139 (critérios, 308-1); 149 (monitoramento automatizado); 18 (100% avaliados na homologação)",
+   "nota": "",
+   "total": 4
+  }
+ },
+ "Copasa": {
+  "GV1": {
+   "c": [
+    1,
+    0,
+    1,
+    1
+   ],
+   "pag": "30 (política de sustentabilidade); 165, 181 (economia circular); 37, 204 (compromissos, comitê clima)",
+   "nota": "C2: a política aprovada pelo Conselho citada na p.124 é a de saúde e segurança; aprovação da política de sustentabilidade não localizada.",
+   "total": 3
+  },
+  "GV2": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "8, 53, 219-220 (GRI); sumário SASB; 208 (cita ISSB/IFRS S1-S2); 8 (asseguração externa)",
+   "nota": "",
+   "total": 4
+  },
+  "GV3": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "55 (matriz de 36 riscos com impactos sociais e ambientais, reporte trimestral ao Conselho); 204 (comitê clima); 223-225 (riscos hídricos)",
+   "nota": "",
+   "total": 4
+  },
+  "GV5": {
+   "c": [
+    1,
+    1,
+    1,
+    0
+   ],
+   "pag": "67-68, 91 (código de conduta para fornecedores); 91, 235 (308-1); 68, 93 (due diligence, avaliação de desempenho ADCON)",
+   "nota": "C4: percentual de fornecedores avaliados não localizado.",
+   "total": 3
+  }
+ },
+ "Copel": {
+  "GV1": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "51-52, 71 (política de sustentabilidade unificada, aprovada no âmbito do CAD); 192, 203 (economia circular); 53-54 (metas ESG)",
+   "nota": "",
+   "total": 4
+  },
+  "GV2": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "304, 356 (GRI); 137, 149 (SASB); 50, 168, 335 (TCFD, ISSB); 7, 354-356 (asseguração limitada PwC)",
+   "nota": "",
+   "total": 4
+  },
+  "GV3": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "102 (matriz de riscos e oportunidades); 52, 338 (comitê de desenvolvimento sustentável, diretoria de riscos); 116, 179 (risco hidrológico, recursos); 50, 336 (Conselho)",
+   "nota": "",
+   "total": 4
+  },
+  "GV5": {
+   "c": [
+    1,
+    1,
+    1,
+    0
+   ],
+   "pag": "222, 234 (manual do fornecedor e código de conduta); 309-311 (308-1); 239, 242 (monitoramento e auditorias)",
+   "nota": "C4: percentual de fornecedores avaliados não localizado.",
+   "total": 3
+  }
+ },
+ "CPFL": {
+  "GV1": {
+   "c": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "pag": "13, 48, 51 (plano ESG 2030, economia circular)",
+   "nota": "Política de sustentabilidade explícita não localizada. Regra: C3 e C4 avaliados no instrumento formal (plano ESG 2030).",
+   "total": 2
+  },
+  "GV2": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "270 (GRI); 294 (SASB); 57-58 (TCFD); 300 (carta de asseguração)",
+   "nota": "",
+   "total": 4
+  },
+  "GV3": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "42, 57 (gestão de riscos integrada, riscos climáticos); 8, 31, 48 (comitê de estratégia, crescimento, inovação e ESG); 48, 112 (recursos, escassez); 41 (Conselho define exposição a risco)",
+   "nota": "",
+   "total": 4
+  },
+  "GV5": {
+   "c": [
+    0,
+    1,
+    1,
+    1
+   ],
+   "pag": "54, 96 (critérios de sustentabilidade na seleção); 96-97 (auditorias); 54, 96 (92,1% dos críticos avaliados)",
+   "nota": "C1: código de conduta específico para fornecedores não localizado (código de conduta ética aplica-se a terceiros, p.39).",
+   "total": 3
+  }
+ },
+ "Engie": {
+  "GV1": {
+   "c": [
+    1,
+    0,
+    1,
+    1
+   ],
+   "pag": "64 (política ambiental do grupo e política de gestão sustentável); 64, 76 (economia circular); 70 (metas de redução)",
+   "nota": "C2: p.34 diz que políticas são aprovadas pela diretoria executiva e/ou Conselho conforme o tema, sem especificar a de sustentabilidade.",
+   "total": 3
+  },
+  "GV2": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "109, 118 (sumário GRI/SASB); 17, 101 (SASB); 74, 110 (TCFD, TNFD); 110, 118, 128-129 (verificação independente Bureau Veritas)",
+   "nota": "",
+   "total": 4
+  },
+  "GV3": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "42, 71 (matriz de riscos inclui risco climático); 11, 27 (comitê de sustentabilidade); 68-69 (risco hídrico); 71, 150 (Conselho supervisiona)",
+   "nota": "",
+   "total": 4
+  },
+  "GV5": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "34-35 (código de conduta em relações com fornecedores); 81 (avaliações de impacto, 308-1/414-1); 80, 148 (due diligence, avaliações no local); 81 (100% dos fornecedores)",
+   "nota": "",
+   "total": 4
+  }
+ },
+ "Klabin": {
+  "GV1": {
+   "c": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "pag": "7, 24 (economia circular); 6, 24, 43-44 (metas SBTi e KODS)",
+   "nota": "Política de sustentabilidade explícita não localizada no relatório. Regra: C3 e C4 no instrumento formal (estratégia/KODS).",
+   "total": 2
+  },
+  "GV2": {
+   "c": [
+    1,
+    0,
+    1,
+    0
+   ],
+   "pag": "9, 17 (remissão ao sumário GRI em documento à parte); 7, 28 (TCFD, TNFD, ISSB)",
+   "nota": "Sem SASB nem carta de asseguração no PDF; sumário GRI é arquivo externo ao relatório.",
+   "total": 2
+  },
+  "GV3": {
+   "c": [
+    1,
+    1,
+    1,
+    0
+   ],
+   "pag": "59, 85 (riscos climáticos); 31-32 (comitê de sustentabilidade); 46 (risco hídrico)",
+   "nota": "C4: acompanhamento periódico dos riscos pelo Conselho não evidenciado.",
+   "total": 3
+  },
+  "GV5": {
+   "c": [
+    1,
+    1,
+    0,
+    1
+   ],
+   "pag": "33, 36 (código de conduta do fornecedor); 24 (100% dos críticos no programa de gestão sustentável da cadeia)",
+   "nota": "C3: auditorias/monitoramento de fornecedores não localizados explicitamente.",
+   "total": 3
+  }
+ },
+ "Lojas Renner": {
+  "GV1": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "32, 76 (política de sustentabilidade endossada pela diretoria e Conselho); 160 (compromissos e políticas aprovados pelo Conselho); 6, 79 (circularidade); 6, 18 (compromissos 2030)",
+   "nota": "",
+   "total": 4
+  },
+  "GV2": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "157-158 (índice GRI); 166 (SASB); 4, 6 (IFRS S1/S2); 169-172 (asseguração limitada)",
+   "nota": "",
+   "total": 4
+  },
+  "GV3": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "32 (Conselho monitora riscos socioambientais e climáticos); 21 (comitê de sustentabilidade); 76-77 (risco hídrico)",
+   "nota": "",
+   "total": 4
+  },
+  "GV5": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "26, 131 (código de conduta para parceiros); 44-45 (critérios socioambientais); 92-95 (auditorias); 141 (99–100% dos fornecedores tier 1/2 auditados)",
+   "nota": "",
+   "total": 4
+  }
+ },
+ "Magalu": {
+  "GV1": {
+   "c": [
+    1,
+    0,
+    1,
+    1
+   ],
+   "pag": "105 (política de sustentabilidade); 36, 64 (circularidade); 61 (meta SBTi)",
+   "nota": "C2: aprovação pelo Conselho da política de sustentabilidade não localizada.",
+   "total": 3
+  },
+  "GV2": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "2, 90-94 (GRI); 94-100 (SASB); 61, 63 (TCFD); 4, 101-102 (asseguração limitada KPMG)",
+   "nota": "",
+   "total": 4
+  },
+  "GV3": {
+   "c": [
+    1,
+    1,
+    0,
+    1
+   ],
+   "pag": "63 (matriz de riscos climáticos, 7 riscos prioritários); 76-78 (comitês); 61 (comitê assessora o Conselho)",
+   "nota": "C3: riscos de recursos, resíduos ou circularidade não tratados explicitamente na gestão de riscos.",
+   "total": 3
+  },
+  "GV5": {
+   "c": [
+    1,
+    1,
+    1,
+    0
+   ],
+   "pag": "38, 83 (código de conduta de fornecedores); 87, 99 (414-1); 38, 88 (monitoramento e avaliação)",
+   "nota": "C4: percentual de fornecedores avaliados não localizado.",
+   "total": 3
+  }
+ },
+ "Minerva Foods": {
+  "GV1": {
+   "c": [
+    1,
+    0,
+    1,
+    1
+   ],
+   "pag": "25 (política de sustentabilidade); 51, 74 (economia circular); 41, 43 (meta de redução)",
+   "nota": "C2: o Conselho aprova o código de ética (p.127); aprovação da política de sustentabilidade não localizada.",
+   "total": 3
+  },
+  "GV2": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "161, 181 (GRI); 4, 171 (SASB); 44, 175 (TCFD); 4, 183 (verificação externa Totum)",
+   "nota": "",
+   "total": 4
+  },
+  "GV3": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "44 (mapeamento de riscos climáticos, TCFD); 25-26 (diretoria de sustentabilidade; Conselho avalia progresso); 171, 176 (risco hídrico); 133 (política de riscos aprovada pelo Conselho)",
+   "nota": "",
+   "total": 4
+  },
+  "GV5": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "131-132 (código de conduta dos parceiros); 53, 55 (critérios socioambientais, 308-1/414-1); 34, 53 (auditorias, monitoramento); 34, 60 (percentuais avaliados)",
+   "nota": "",
+   "total": 4
+  }
+ },
+ "Movida": {
+  "GV1": {
+   "c": [
+    1,
+    0,
+    1,
+    1
+   ],
+   "pag": "21, 50 (política de sustentabilidade); 32, 49 (economia circular); 3, 30 (metas SBTi e remuneração)",
+   "nota": "C2: p.21 diz que políticas são aprovadas por diretoria ou Conselho, sem especificar.",
+   "total": 3
+  },
+  "GV2": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "2-3, 102 (sumário GRI e SASB); 6, 27 (TCFD); 99 (carta de asseguração)",
+   "nota": "",
+   "total": 4
+  },
+  "GV3": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "54 (matriz de riscos climáticos, inclui eficiência hídrica); 20 (comitê de sustentabilidade); 26-28 (Conselho acompanha riscos)",
+   "nota": "",
+   "total": 4
+  },
+  "GV5": {
+   "c": [
+    1,
+    1,
+    1,
+    0
+   ],
+   "pag": "50, 67 (código de conduta para terceiros); 67, 74 (308-1/414-1); 32 (monitoramento e auditoria de fornecedores)",
+   "nota": "C4: percentual de fornecedores avaliados não localizado.",
+   "total": 3
+  }
+ },
+ "Natura": {
+  "GV1": {
+   "c": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "pag": "8, 13, 45 (circularidade); 12, 46, 144 (compromissos públicos e metas)",
+   "nota": "Política de sustentabilidade explícita não localizada (o relatório cita política de gerenciamento de riscos e código de conduta aprovados pelo Conselho, p.31). Regra: C3 e C4 avaliados no instrumento formal (compromissos/estratégia).",
+   "total": 2
+  },
+  "GV2": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "178 (GRI); 5-6, 181-184 (SASB); 5-6, 42-44 (TCFD, TNFD); 5, 191 (verificação externa KPMG)",
+   "nota": "",
+   "total": 4
+  },
+  "GV3": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "3, 42 (gestão de riscos corporativos e risco climático); 31-32 (comitê de sustentabilidade); 147, 183 (riscos de cadeia e hídricos); 31 (Conselho)",
+   "nota": "",
+   "total": 4
+  },
+  "GV5": {
+   "c": [
+    1,
+    1,
+    1,
+    0
+   ],
+   "pag": "37, 147 (código de conduta para fornecedores); 79, 135, 147, 150 (critérios, homologação); 50, 135 (auditorias)",
+   "nota": "C4: percentual de fornecedores avaliados não localizado.",
+   "total": 3
+  }
+ },
+ "Pague Menos": {
+  "GV1": {
+   "c": [
+    0,
+    0,
+    1,
+    1
+   ],
+   "pag": "46, 117 (receita circular, meta 20% até 2030); 44-46 (metas ESG)",
+   "nota": "Política de sustentabilidade explícita não localizada. Regra: C3 e C4 avaliados no instrumento formal (compromissos/estratégia).",
+   "total": 2
+  },
+  "GV2": {
+   "c": [
+    1,
+    1,
+    0,
+    1
+   ],
+   "pag": "133-134 (GRI); 130, 133 (SASB); 130, 152-155 (verificação externa KPMG)",
+   "nota": "TCFD/ISSB não citados.",
+   "total": 3
+  },
+  "GV3": {
+   "c": [
+    1,
+    1,
+    0,
+    1
+   ],
+   "pag": "131 (matriz de riscos e oportunidades); 29 (comitês de assessoramento); 27 (Conselho responsável por riscos e oportunidades incl. ESG)",
+   "nota": "C3: riscos de recursos/resíduos/circularidade não tratados explicitamente.",
+   "total": 3
+  },
+  "GV5": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "56 (código de conduta dos fornecedores); 56, 133 (requisitos socioambientais); 45-46 (auditorias de fornecedores de marcas próprias); 45 (29,41% auditados)",
+   "nota": "",
+   "total": 4
+  }
+ },
+ "TIM": {
+  "GV1": {
+   "c": [
+    1,
+    0,
+    1,
+    1
+   ],
+   "pag": "90, 100 (política ambiental); 4, 89-90 (economia circular); 12, 14, 34 (metas ESG, SBTi)",
+   "nota": "C2: aprovação da política ambiental pelo Conselho não localizada (o comitê ESG vinculado ao Conselho valida a priorização, p.6).",
+   "total": 3
+  },
+  "GV2": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "150-151 (GRI); 162 (SASB); 5, 15, 71 (TCFD, ISSB); 5, 164 (asseguração limitada EY)",
+   "nota": "",
+   "total": 4
+  },
+  "GV3": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "71 (mapa de riscos corporativos, risco climático); 4, 6, 96 (comitê ESG vinculado ao Conselho); 73, 90 (escassez de água, riscos ambientais)",
+   "nota": "",
+   "total": 4
+  },
+  "GV5": {
+   "c": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "pag": "76, 86 (código de ética e política de relacionamento com fornecedores); 86-88 (308-1/414-1); 20 (monitoramento de críticos); 87 (14% avaliados)",
+   "nota": "",
+   "total": 4
+  }
+ }
+}

@@ -1,0 +1,823 @@
+{
+ "Allos": {
+  "SA1": {
+   "valor": 62.0,
+   "unid": "%",
+   "pag": "141",
+   "nota": "Taxa de recuperação 2024 (62,0%; 48.386 t não destinadas à disposição final / 78.049 t geradas). 2023: 47,6%.",
+   "fonte": "ALLOS-2024.pdf"
+  },
+  "SA2": {
+   "valor": 38268.91,
+   "unid": "tCO2e",
+   "pag": "140",
+   "nota": "Escopo 1 (25.415,90) + escopo 2 por localização (12.853,01). Escolha de compra: 10.398,29 (total 35.814,19). Receita líquida 2024 R$ 2.739,8 mi.",
+   "fonte": "ALLOS-2024.pdf"
+  },
+  "SA3": {
+   "valor": 19.01,
+   "unid": "% da eletricidade renovável",
+   "pag": "159",
+   "nota": "Percentual informado pela empresa (SASB IF-RE-130a.3). Pela tabela da p.137, a eletricidade renovável seria 15.920 MWh de 392.158 MWh de eletricidade (4,1%); divergência não explicada no relatório, mantido o valor informado.",
+   "fonte": "ALLOS-2024.pdf"
+  },
+  "SA5": {
+   "valor": -0.05,
+   "unid": "% (variação 2023→2024 da captação de água por receita)",
+   "pag": "139",
+   "nota": "captação: 4723.22 em 2023 e 4769.02 em 2024 (ML captados); receita líquida R$ 2712.3 mi (2023) e R$ 2739.8 mi (2024). Consumo de água subiu 13,1% (1.085,71→1.228,34 ML).",
+   "fonte": "ALLOS-2024.pdf"
+  },
+  "EF3": {
+   "valor": 0.0,
+   "unid": "%",
+   "pag": "153",
+   "nota": "GRI 2-27: sem multas ou sanções por não conformidade ambiental em 2024. Provisões ambientais não localizadas no relatório.",
+   "fonte": "ALLOS-2024.pdf"
+  }
+ },
+ "Ambev": {
+  "SA3": {
+   "valor": 96.5,
+   "unid": "% da eletricidade renovável",
+   "pag": "79",
+   "nota": "Eletricidade renovável operacional 96,5% (2024); contratada 100%.",
+   "fonte": "AMBEV_ri2024.pdf"
+  },
+  "SA5": {
+   "valor": null,
+   "unid": "não divulgado",
+   "pag": "79",
+   "nota": "Só intensidade por produto (hl/hl): 2,37 em 2023 e 2,47 em 2024 (+4,2%), e água consumida em 2024 (20.892 mil m3); sem volume de 2023, a intensidade por receita não é calculável. Complementar guardado.",
+   "fonte": "AMBEV_ri2024.pdf"
+  },
+  "SA1": {
+   "valor": 99.2,
+   "unid": "%",
+   "pag": "81",
+   "nota": "Resíduos e coprodutos recuperados 2.931 mil t de 2.954 mil t gerados (inclui coprodutos de cervejaria, como bagaço de malte).",
+   "fonte": "AMBEV_ri2024.pdf"
+  },
+  "SA2": {
+   "valor": 850000,
+   "unid": "tCO2e",
+   "pag": "80",
+   "nota": "Escopo 1 = 0,483 Mt + escopo 2 por localização = 0,367 Mt (escopo 2 por mercado = 0,075 Mt). Cobre todas as operações (inclui exterior).",
+   "fonte": "AMBEV_ri2024.pdf"
+  },
+  "EF3": {
+   "valor": null,
+   "unid": "não divulgado",
+   "pag": "76",
+   "nota": "Sem valor monetário de multas ambientais no relatório.",
+   "fonte": "AMBEV_ri2024.pdf"
+  }
+ },
+ "Minerva Foods": {
+  "SA1": {
+   "valor": 79.3,
+   "unid": "%",
+   "pag": "150",
+   "nota": "Resíduos não destinados à disposição final (GRI 306-4) 125.491,8 t ÷ resíduos gerados 158.343,2 t (GRI 306-3), 2024, incluindo novas unidades. Inclui compostagem (113.433,8 t) e reciclagem (9.667,6 t).",
+   "fonte": "MIVERVAFOODS_ri2024.pdf"
+  },
+  "SA2": {
+   "valor": 445204.03,
+   "unid": "tCO2e",
+   "pag": "43",
+   "nota": "Escopo 1 de 2024 (2023: 337.934,63). Escopo 2 reportado como zero pela abordagem de escolha de compra (I-RECs); valor por localização não informado.",
+   "fonte": "MIVERVAFOODS_ri2024.pdf"
+  },
+  "SA3": {
+   "valor": null,
+   "unid": "não divulgado",
+   "pag": "71",
+   "nota": "Relatório cita selo de energia renovável para parte das operações, sem percentual de eletricidade renovável.",
+   "fonte": "MIVERVAFOODS_ri2024.pdf"
+  },
+  "SA5": {
+   "valor": -10.08,
+   "unid": "% (variação 2023→2024 da captação de água por receita)",
+   "pag": "73",
+   "nota": "captação: 18072791.85 em 2023 e 20589217.68 em 2024 (m3 captados); receita líquida R$ 26891.6 mi (2023) e R$ 34068.9 mi (2024). 2024 inclui novas unidades (2024 sem novas unidades: 19.882.239,54 m3). Intensidade por produto (m3/t de produto acabado) disponível na p.34 como complemento.",
+   "fonte": "MIVERVAFOODS_ri2024.pdf"
+  },
+  "EF3": {
+   "valor": null,
+   "unid": "não divulgado",
+   "pag": "162",
+   "nota": "Índice GRI 2-27 sem informação.",
+   "fonte": "MIVERVAFOODS_ri2024.pdf"
+  }
+ },
+ "CPFL": {
+  "SA1": {
+   "valor": 85.3,
+   "unid": "%",
+   "pag": "75",
+   "nota": "Resíduos não enviados a aterro 55.165,29 t ÷ gerados 64.643,85 t (2024); parte dos administrativos é estimada.",
+   "fonte": "CPFL_ri2024.pdf"
+  },
+  "SA2": {
+   "valor": 389760,
+   "unid": "tCO2e",
+   "pag": "59",
+   "nota": "Escopo 1 bruto 80,77 mil t + escopo 2 por localização 308,99 mil t; exclui emissões biogênicas (1.964,95 mil t). Intensidade informada: 9,14 tCO2e/R$ mi.",
+   "fonte": "CPFL_ri2024.pdf"
+  },
+  "SA3": {
+   "valor": null,
+   "unid": "não divulgado",
+   "pag": "59",
+   "nota": "Não há % de eletricidade renovável; o consumo de energia próprio é por combustível (biomassa 15,6 milhões de GJ, maior parte). Complementar.",
+   "fonte": "CPFL_ri2024.pdf"
+  },
+  "SA5": {
+   "valor": null,
+   "unid": "não divulgado",
+   "pag": "72",
+   "nota": "Só 2024; o relatório informa que dados anteriores não são comparáveis (nova metodologia). Captação 2.313,79 ML; consumo 2.163,51 ML.",
+   "fonte": "CPFL_ri2024.pdf"
+  },
+  "EF3": {
+   "valor": 0.0,
+   "unid": "%",
+   "pag": "125",
+   "nota": "GRI 2-27: sem pagamento de multas significativas (≥ R$ 500 mil) em 2024.",
+   "fonte": "CPFL_ri2024.pdf"
+  }
+ },
+ "Natura": {
+  "SA1": {
+   "valor": 79.78,
+   "unid": "% resíduos recuperados/reciclados (recuperados ÷ (recuperados + dispostos))",
+   "pag": "aba GRI 306-4/306-5",
+   "nota": "Recuperados 2024 (reciclagem 20.263,36 + circularidade 2.450,20 t não perigosos; 2.285,33 t perigosos) = 24998.89 t; dispostos (5.282,29 + 1.052,52 t) = 6334.81 t. Perímetro: Natura &Co América Latina. Total gerado informado em 306-3 é 30.195,77 t (não fecha com 306-4+306-5; usado denominador = recuperados + dispostos).",
+   "fonte": "Databook Natura &Co América Latina 2024"
+  },
+  "SA2": {
+   "valor": 22132.92,
+   "unid": "tCO2e (escopo 1 + escopo 2 location-based)",
+   "pag": "aba GRI 305-1 2 3",
+   "nota": "Escopo 1 = 9.163,89 e escopo 2 location = 12.969,03 (market-based = 0). Perímetro Natura &Co América Latina (exclui The Body Shop em 2024). Somente Natura: 4.379,64 + 5.754,44 = 10.134,08. Receita da DFP (CD_CVM 019550) pode ter perímetro mais amplo; sensibilidade.",
+   "fonte": "Databook Natura &Co América Latina 2024"
+  },
+  "SA3": {
+   "valor": null,
+   "unid": "n/d",
+   "pag": "aba GRI 302-1",
+   "nota": "Databook não informa % de eletricidade renovável. Consumo de eletricidade 2024 = 90.985.441,67 kWh (327.547,59 GJ), mas a tabela de 'eletricidade renovável' mostra 419.120,86 GJ (maior que o total) e a linha de vapor traz valor inconsistente (42.858.850 GJ): dados internamente inconsistentes; não calculado.",
+   "fonte": "Databook Natura &Co América Latina 2024"
+  },
+  "SA5": {
+   "valor": null,
+   "unid": "n/d",
+   "pag": "aba GRI 303-3",
+   "nota": "Captação total: 610,76 ML (2023) e 564,33 ML (2024), Natura &Co América Latina. Não normalizável por receita de forma confiável: receita da DFP 019550 passou de R$ 14.928 mi (2023) a R$ 21.272 mi (2024), indício de mudança de perímetro (incorporação), o que geraria variação espúria de −35%. Variação absoluta da captação = −7,6%.",
+   "fonte": "Databook Natura &Co América Latina 2024"
+  },
+  "EF3": {
+   "valor": 0.0425,
+   "unid": "% da receita líquida (multas ambientais 0 + passivo ambiental acumulado R$ 9.048.461,16)",
+   "pag": "aba GRI 2-27",
+   "nota": "Sem multas ambientais em 2024. Passivo ambiental acumulado (Brasil, Natura e Avon; inclui perda provável, possível e remota — tende a superestimar provisão). Receita R$ 21.271,58 mi (DFP).",
+   "fonte": "Databook Natura &Co América Latina 2024"
+  }
+ },
+ "Copasa": {
+  "SA1": {
+   "valor": null,
+   "unid": "não divulgado de forma comparável",
+   "pag": "155",
+   "nota": "Só há pesos de resíduos do aterro de Varginha e uma linha de reciclagem em toneladas, com anos e destinos não identificáveis no texto; sem taxa de reciclagem sobre o total gerado.",
+   "fonte": "COPASA_2024.pdf"
+  },
+  "SA2": {
+   "valor": 755363.46,
+   "unid": "tCO2e",
+   "pag": "206",
+   "nota": "Escopo 1 (698.455,49) + escopo 2 (56.907,97). O texto traz dois valores de escopo 2 (20.552,39 e 56.907,97) e identifica 'escolha de compra' junto do primeiro; assumido o segundo como por localização. CONFERIR no PDF.",
+   "fonte": "COPASA_2024.pdf"
+  },
+  "SA3": {
+   "valor": null,
+   "unid": "não divulgado",
+   "pag": "-",
+   "nota": "Sem percentual de eletricidade renovável localizado.",
+   "fonte": "COPASA_2024.pdf"
+  },
+  "SA5": {
+   "valor": null,
+   "unid": "não aplicável/não comparável",
+   "pag": "143",
+   "nota": "Companhia de saneamento: captação e tratamento de água são a atividade-fim, e o consumo vem em unidade inconsistente no texto (1.442.891.000.000). Intensidade hídrica por receita não é comparável com as demais.",
+   "fonte": "COPASA_2024.pdf"
+  },
+  "EF3": {
+   "valor": null,
+   "unid": "não divulgado",
+   "pag": "222",
+   "nota": "Índice GRI 2-27 sem valor de multas localizado.",
+   "fonte": "COPASA_2024.pdf"
+  }
+ },
+ "C&A": {
+  "SA1": {
+   "valor": 96.6,
+   "unid": "%",
+   "pag": "154",
+   "nota": "Reciclagem (978,11 t) + preparação para reutilização (67,57 t) ÷ resíduos gerados (1.082,68 t), 2024. A tabela traz 25.171,17 na linha de incineração, valor incompatível com o total (provável erro do relatório); mantido o cálculo pelas linhas de reciclagem e reutilização.",
+   "fonte": "C&A_RA2024.pdf"
+  },
+  "SA2": {
+   "valor": 16412.41,
+   "unid": "tCO2e",
+   "pag": "152",
+   "nota": "Escopo 1 bruto 6.353,60 + escopo 2 por localização 10.058,81 (escolha de compra = 0).",
+   "fonte": "C&A_RA2024.pdf"
+  },
+  "SA3": {
+   "valor": 100.0,
+   "unid": "% da eletricidade renovável",
+   "pag": "166",
+   "nota": "Consumo de energia 100% renovável desde 2023, por certificados internacionais (I-RECs).",
+   "fonte": "C&A_RA2024.pdf"
+  },
+  "SA5": {
+   "valor": null,
+   "unid": "não divulgado",
+   "pag": "158",
+   "nota": "Índice GRI 303-3/303-5 remete às p.71 e 91, que não trazem volumes de água.",
+   "fonte": "C&A_RA2024.pdf"
+  },
+  "EF3": {
+   "valor": 0.0,
+   "unid": "%",
+   "pag": "156",
+   "nota": "GRI 2-27: nenhum caso significativo de não conformidade e nenhuma sanção não monetária em 2024; sem multas significativas.",
+   "fonte": "C&A_RA2024.pdf"
+  }
+ },
+ "WEG": {
+  "SA1": {
+   "valor": 77.2,
+   "unid": "% resíduos reutilizados + reciclados",
+   "pag": "72",
+   "nota": "Tipo de disposição 2024: reuso 26,1% + reciclagem 51,1% = 77,2% (aterro 22,0%; incineração/coprocessamento 0,8%). Relatório destaca 'cerca de 77% dos resíduos sólidos reciclados ou reutilizados' (p.9, 76).",
+   "fonte": "WEG_ri2024.pdf"
+  },
+  "SA2": {
+   "valor": 127714,
+   "unid": "tCO2e (escopo 1 + escopo 2 market-based)",
+   "pag": "84-85",
+   "nota": "Escopo 1 = 61.439; escopo 2 = 66.275 (somente market-based reportado; location-based não divulgado — desvio em relação ao protocolo). Escopo 2 por localização não apresentado; consumo de eletricidade 639.511 MWh.",
+   "fonte": "WEG_ri2024.pdf"
+  },
+  "SA3": {
+   "valor": 66.83,
+   "unid": "% da eletricidade renovável",
+   "pag": "85-86",
+   "nota": "Eletricidade renovável 427.398 MWh de 639.511 MWh (2024) = 66,8%; relatório indica 66,8% em 2024 (p.86) e 67% do consumo global suprido por renováveis (p.82).",
+   "fonte": "WEG_ri2024.pdf"
+  },
+  "SA5": {
+   "valor": 6.67,
+   "unid": "% (variação 2023→2024 da consumo de água de água por receita)",
+   "pag": "64",
+   "nota": "consumo de água: 1217.226 em 2023 e 1517.504 em 2024 (mil m³ de consumo total de água); receita líquida R$ 32503.6 mi (2023) e R$ 37986.9 mi (2024). Indicador reportado é 'consumo de água – absoluto' (m³) para todas as operações globais, usado como proxy de captação.",
+   "fonte": "WEG_ri2024.pdf"
+  },
+  "EF3": {
+   "valor": 0,
+   "unid": "% da receita líquida (sem multas ambientais significativas; provisões não localizadas)",
+   "pag": "75, 183",
+   "nota": "GRI 2-27: não foram identificados casos significativos de não conformidade com leis e regulamentos; multas e provisões ambientais não quantificadas.",
+   "fonte": "WEG_ri2024.pdf"
+  }
+ },
+ "Klabin": {
+  "SA1": {
+   "valor": 99.35,
+   "unid": "% resíduos sólidos reaproveitados ou reciclados",
+   "pag": "93",
+   "nota": "'99,35% dos resíduos sólidos gerados pela Companhia foram reaproveitados ou destinados à reciclagem' (resumo de indicadores).",
+   "fonte": "KLABIN_ri2024.pdf"
+  },
+  "SA2": {
+   "valor": null,
+   "unid": "n/d",
+   "pag": "44",
+   "nota": "Relatório não traz valores absolutos de escopos 1 e 2 (apenas redução de 13,2% vs 2022); sem tabela GRI com números.",
+   "fonte": "KLABIN_ri2024.pdf"
+  },
+  "SA3": {
+   "valor": null,
+   "unid": "n/d",
+   "pag": "45",
+   "nota": "Informa 93% de fontes renováveis na matriz energética (combustíveis/energia total), não % de eletricidade; não utilizado por não ser comparável ao protocolo (eletricidade).",
+   "fonte": "KLABIN_ri2024.pdf"
+  },
+  "SA5": {
+   "valor": null,
+   "unid": "n/d",
+   "pag": "46",
+   "nota": "Apenas intensidade (22,5 m³/t de produto captado; −28,3% consumo específico vs 2018); sem captação absoluta anual.",
+   "fonte": "KLABIN_ri2024.pdf"
+  },
+  "EF3": {
+   "valor": null,
+   "unid": "n/d",
+   "pag": "—",
+   "nota": "Não localizadas informações sobre multas ou provisões ambientais.",
+   "fonte": "KLABIN_ri2024.pdf"
+  }
+ },
+ "Cemig": {
+  "SA1": {
+   "valor": 97.49,
+   "unid": "% resíduos reciclados/reutilizados",
+   "pag": "119",
+   "nota": "Reciclados/reutilizados 2024: não perigosos 52.054,14 t + perigosos 158,52 t = 52212.66 t de 53559.19 t gerados (GRI 306-3/306-4).",
+   "fonte": "CEMIG-2024.pdf"
+  },
+  "SA2": {
+   "valor": 419035.06,
+   "unid": "tCO2e (escopo 1 + escopo 2; abordagem não especificada)",
+   "pag": "139",
+   "nota": "Escopo 1 = 42.860,81 e escopo 2 = 376.174,25 tCO2e (2024). O relatório não explicita location/market-based.",
+   "fonte": "CEMIG-2024.pdf"
+  },
+  "SA3": {
+   "valor": 100,
+   "unid": "% da eletricidade renovável (declaração da empresa)",
+   "pag": "5, 115",
+   "nota": "Empresa declara uso de energia elétrica renovável certificada; consumo de eletricidade 41.469,2 MWh (GRI 302-1) e consumo de energia renovável 45.998 MWh (resumo, p.5) — o segundo excede o primeiro, indicando 100% como limite superior. Interpretar com cautela.",
+   "fonte": "CEMIG-2024.pdf"
+  },
+  "SA5": {
+   "valor": -3.21,
+   "unid": "% (variação 2023→2024 da captação de água por receita)",
+   "pag": "122",
+   "nota": "captação: 214229.1 em 2023 e 224065.2 em 2024 (m³ captados (captação total)); receita líquida R$ 36849.8 mi (2023) e R$ 39819.6 mi (2024). Captação total de água, 2023 e 2024 (IF-EU-140a.1).",
+   "fonte": "CEMIG-2024.pdf"
+  },
+  "EF3": {
+   "valor": null,
+   "unid": "n/d",
+   "pag": "113",
+   "nota": "GRI 2-27: 2 multas significativas em 2024 (R$ 2.430.982,28), sem especificar se ambientais; provisões ambientais não localizadas. Não classificado como multa ambiental.",
+   "fonte": "CEMIG-2024.pdf"
+  }
+ },
+ "Engie": {
+  "SA1": {
+   "valor": 75,
+   "unid": "% resíduos recuperados (índice de recuperação reportado)",
+   "pag": "75",
+   "nota": "Índice de recuperação de resíduos em 2024 = 75% (meta 57%); perigosos 73%. Resíduos gerados totais 2024: 96.623 t aprox. (90.811,2 + 5.595,2 + 216,6 t, por tipo).",
+   "fonte": "ENGIE_ri2024.pdf"
+  },
+  "SA2": {
+   "valor": 17361.38,
+   "unid": "tCO2e (escopo 1, controle operacional; escopo 2 market-based = 0)",
+   "pag": "73",
+   "nota": "Escopo 1 = 17.361,38 tCO2e (controle operacional; 16.099,02 por participação). Escopo 2 apenas na abordagem de escolha de compra, zerado por I-RECs; location-based não divulgado (desvio em relação ao protocolo).",
+   "fonte": "ENGIE_ri2024.pdf"
+  },
+  "SA3": {
+   "valor": 100,
+   "unid": "% da eletricidade renovável (via certificados I-REC)",
+   "pag": "73",
+   "nota": "Consumo de energia da Companhia 100% de fontes renováveis (escopo 2 zerado por I-RECs). Geração própria 100% renovável.",
+   "fonte": "ENGIE_ri2024.pdf"
+  },
+  "SA5": {
+   "valor": -15.89,
+   "unid": "% (variação 2023→2024 da captação de água por receita)",
+   "pag": "68",
+   "nota": "captação: 3644.6469248291573 em 2023 e 3200 em 2024 (ML captados (aprox.; 3,2 mil ML em 2024, −12,2% sobre 2023, valor de 2023 derivado)); receita líquida R$ 10747.8 mi (2023) e R$ 11218.6 mi (2024). Volume total de água captada 3,2 mil megalitros, redução de 12,2% vs 2023; vendas de usinas térmicas (Pampa Sul, Lages) afetam o perímetro. Hidrelétricas não computam a água turbinada.",
+   "fonte": "ENGIE_ri2024.pdf"
+  },
+  "EF3": {
+   "valor": 0,
+   "unid": "% da receita líquida (sem sanções monetárias significativas; provisões não localizadas)",
+   "pag": "64, 68",
+   "nota": "Conformidade de 100% das operações com licenças ambientais; sem sanções monetárias significativas relacionadas à água; provisões ambientais não quantificadas.",
+   "fonte": "ENGIE_ri2024.pdf"
+  }
+ },
+ "Copel": {
+  "SA1": {
+   "valor": 97.47,
+   "unid": "% resíduos não destinados à disposição final (reutilização, reciclagem e outras recuperações)",
+   "pag": "294-295",
+   "nota": "2024: 73.433,6 t não destinadas à disposição final de 75.338,9 t gerados (GRI 306-3/306-4). Inclui reutilização e outras ações de recuperação.",
+   "fonte": "COPEL_ri2024.pdf"
+  },
+  "SA2": {
+   "valor": 246487.34,
+   "unid": "tCO2e (escopo 1 + escopo 2)",
+   "pag": "170",
+   "nota": "Escopo 1 = 17.317,97; escopo 2 = 229.169,37 tCO2e (fator médio do SIN, abordagem por localização). Biogênicas excluídas.",
+   "fonte": "COPEL_ri2024.pdf"
+  },
+  "SA3": {
+   "valor": null,
+   "unid": "n/d",
+   "pag": "—",
+   "nota": "Relatório destaca geração 100% renovável a partir de mar/2024 e energia consumida 365.079,4 GJ (p.49), mas não traz % de eletricidade renovável consumida.",
+   "fonte": "COPEL_ri2024.pdf"
+  },
+  "SA5": {
+   "valor": 12.43,
+   "unid": "% (variação 2023→2024 da captação de água por receita)",
+   "pag": "190",
+   "nota": "captação: 102791.0 em 2023 e 121874.3 em 2024 (ML captados (2023 reapresentado)); receita líquida R$ 21479.5 mi (2023) e R$ 22651.0 mi (2024). Captação total, 2023 ajustado (de 85.564,4 para 102.791,0 ML) e 2024 = 121.874,3 ML (GRI 303-3/303-5). Uso não consuntivo (hidrelétricas).",
+   "fonte": "COPEL_ri2024.pdf"
+  },
+  "EF3": {
+   "valor": 0,
+   "unid": "% da receita líquida (sem casos significativos de não conformidade; provisões não localizadas)",
+   "pag": "91",
+   "nota": "'Em 2024, não foram identificados casos significativos de não conformidade com leis e regulamentos' (GRI 2-27). Provisões ambientais não quantificadas.",
+   "fonte": "COPEL_ri2024.pdf"
+  }
+ },
+ "Auren": {
+  "SA1": {
+   "valor": 45.96,
+   "unid": "% resíduos não destinados à disposição final",
+   "pag": "90-91",
+   "nota": "185,22 t de 403,0 t gerados (GRI 306-3/306-4); perímetro limitado aos complexos eólicos listados na nota do relatório (não inclui hidrelétricas/térmicas). Baixa representatividade.",
+   "fonte": "AUREN_relan24.pdf"
+  },
+  "SA2": {
+   "valor": 14158.8,
+   "unid": "tCO2e (escopo 1 + escopo 2)",
+   "pag": "88",
+   "nota": "Escopo 1 = 12.597,6 (exceto biogênicas); escopo 2 = 1.561,2 tCO2e (abordagem não especificada). 2024.",
+   "fonte": "AUREN_relan24.pdf"
+  },
+  "SA3": {
+   "valor": null,
+   "unid": "n/d",
+   "pag": "39, 84",
+   "nota": "Portfólio de geração 100% renovável, mas % de eletricidade consumida renovável não informado (consumo de eletricidade 361.111 GJ).",
+   "fonte": "AUREN_relan24.pdf"
+  },
+  "SA5": {
+   "valor": null,
+   "unid": "n/d",
+   "pag": "84",
+   "nota": "Captação total 126,02 ML em 2024 apenas (sem valor de 2023 comparável).",
+   "fonte": "AUREN_relan24.pdf"
+  },
+  "EF3": {
+   "valor": 0,
+   "unid": "% da receita líquida (sem casos de não conformidade; provisões não localizadas)",
+   "pag": "111",
+   "nota": "GRI 2-27: 'não tivemos casos de não conformidade com as leis e regulamentos no último ano'.",
+   "fonte": "AUREN_relan24.pdf"
+  }
+ },
+ "Azzas": {
+  "SA1": {
+   "valor": null,
+   "unid": "n/d",
+   "pag": "72-74",
+   "nota": "Resíduos reportados por unidade de negócio com critérios diferentes (SOMA, AR&Co, Cia. Hering, Arezzo&Co); sem total consolidado de recuperação — não calculado.",
+   "fonte": "AZZAS-2024.pdf"
+  },
+  "SA2": {
+   "valor": 16083.56,
+   "unid": "tCO2e (escopo 1 + escopo 2 por localização)",
+   "pag": "67-68",
+   "nota": "Escopo 1 = 12.303,64; escopo 2 por localização = 3.779,92 (escolha de compra = 853,34). 2024.",
+   "fonte": "AZZAS-2024.pdf"
+  },
+  "SA3": {
+   "valor": 79,
+   "unid": "% da energia utilizada nas operações próprias de fonte renovável (aprox. eletricidade)",
+   "pag": "68",
+   "nota": "'Em 2024, 79% da energia utilizada nas operações próprias da Companhia' renovável (dado declarado; denominador é energia, não só eletricidade). Meta 100% até 2030 com I-RECs.",
+   "fonte": "AZZAS-2024.pdf"
+  },
+  "SA5": {
+   "valor": null,
+   "unid": "n/d",
+   "pag": "78",
+   "nota": "Captação 2024 apenas (45,42 ML nas BUs + 1.200.284 m³ não detalhados); sem comparação com 2023.",
+   "fonte": "AZZAS-2024.pdf"
+  },
+  "EF3": {
+   "valor": 0,
+   "unid": "% da receita líquida (sem multas ou sanções; provisões não localizadas)",
+   "pag": "85",
+   "nota": "GRI 2-27: 'Não houve multas ou sanções direcionadas ao atual CNPJ ou holding Azzas'.",
+   "fonte": "AZZAS-2024.pdf"
+  }
+ },
+ "Cogna": {
+  "SA2": {
+   "valor": 10855.86,
+   "unid": "tCO2e (escopo 1 + escopo 2 por localização)",
+   "pag": "62",
+   "nota": "Escopo 1 = 8.136,74; escopo 2 por localização = 2.719,12 tCO2e (2024); escolha de compra = 0.",
+   "fonte": "COGNA_Educação_2024.pdf"
+  },
+  "SA3": {
+   "valor": 100,
+   "unid": "% da energia consumida coberta por I-REC",
+   "pag": "60",
+   "nota": "'Adquirimos I-RECs para 100% da energia consumida em 2024'; 88% migrados ao mercado livre de fontes renováveis (nota p.60). Declarado; baseado em certificados.",
+   "fonte": "COGNA_Educação_2024.pdf"
+  },
+  "SA5": {
+   "valor": 19.92,
+   "unid": "% (variação 2023→2024 da captação de água por receita)",
+   "pag": "59",
+   "nota": "captação: 281708.89 em 2023 e 371281.56 em 2024 (m³ captados (captação total em todas as áreas)); receita líquida R$ 5814.8 mi (2023) e R$ 6390.6 mi (2024). Aumento atribuído em parte à integração das unidades Anglo (mudança de perímetro).",
+   "fonte": "COGNA_Educação_2024.pdf"
+  },
+  "EF3": {
+   "valor": 0,
+   "unid": "% da receita líquida (sem multas relevantes; provisões ambientais não localizadas)",
+   "pag": "121-122",
+   "nota": "GRI 2-27: sem multas ou processos relevantes; sem quantificação ambiental específica.",
+   "fonte": "COGNA_Educação_2024.pdf"
+  },
+  "SA1": {
+   "valor": null,
+   "unid": "n/d",
+   "pag": "61",
+   "nota": "Relatório descreve gestão de resíduos, sem quantidades geradas/recicladas.",
+   "fonte": "COGNA_Educação_2024.pdf"
+  }
+ },
+ "Lojas Renner": {
+  "SA1": {
+   "valor": 97.9,
+   "unid": "% resíduos reciclados",
+   "pag": "154",
+   "nota": "Resíduos gerados 9.601,79 t em 2024; 97,9% reciclados (97,93% no texto, p.87).",
+   "fonte": "LOJAS_RENNER_ri2024.pdf"
+  },
+  "SA2": {
+   "valor": 17697.61,
+   "unid": "tCO2e (escopo 1 + escopo 2 por localização)",
+   "pag": "73",
+   "nota": "Escopo 1 = 4.397,38; escopo 2 por localização = 13.300,23 tCO2e (2024).",
+   "fonte": "LOJAS_RENNER_ri2024.pdf"
+  },
+  "SA3": {
+   "valor": 100,
+   "unid": "% da eletricidade renovável (declarado)",
+   "pag": "70-74",
+   "nota": "Fornecimento anual de energia elétrica 100% renovável (compra de energia/certificados) — declaração qualitativa.",
+   "fonte": "LOJAS_RENNER_ri2024.pdf"
+  },
+  "SA5": {
+   "valor": -0.66,
+   "unid": "% (variação 2023→2024 da captação de água por receita)",
+   "pag": "153",
+   "nota": "captação: 420383.0 em 2023 e 441721.0 em 2024 (m³ retirados (retirada total)); receita líquida R$ 13647.8 mi (2023) e R$ 14436.4 mi (2024). Retirada total de água (GRI 303-3).",
+   "fonte": "LOJAS_RENNER_ri2024.pdf"
+  },
+  "EF3": {
+   "valor": 0,
+   "unid": "% da receita líquida (sem casos de não conformidade; provisões não localizadas)",
+   "pag": "152",
+   "nota": "GRI 2-27: 0 casos de não conformidade com leis e regulamentos em 2024.",
+   "fonte": "LOJAS_RENNER_ri2024.pdf"
+  }
+ },
+ "Magalu": {
+  "SA1": {
+   "valor": 0.56,
+   "unid": "% resíduos desviados de descarte",
+   "pag": "67",
+   "nota": "Desviados de descarte 79,1 t (68,3 não perigosos + 10,8 perigosos) de 14.126,4 t gerados (GRI 306-3/306-4); quase todo o volume vai a aterro. Observação: o total enviado à disposição final (14.205,5 t) excede o gerado, indicando inconsistência no relatório.",
+   "fonte": "MAGALU_ri2024.pdf"
+  },
+  "SA2": {
+   "valor": 22548,
+   "unid": "tCO2e (escopo 1 + escopo 2 aquisição de energia, location-based)",
+   "pag": "59",
+   "nota": "Escopo 1 = 15.331; escopo 2 (aquisição de energia) = 7.217 tCO2e (market-based = 0). Valores arredondados no relatório.",
+   "fonte": "MAGALU_ri2024.pdf"
+  },
+  "SA3": {
+   "valor": 100,
+   "unid": "% das operações abastecidas por fonte renovável (declarado)",
+   "pag": "71",
+   "nota": "100% das operações abastecidas exclusivamente por fontes renováveis desde 2022 (30% mercado livre eólico, 30% I-REC, restante geração distribuída).",
+   "fonte": "MAGALU_ri2024.pdf"
+  },
+  "SA5": {
+   "valor": -13.54,
+   "unid": "% (variação 2023→2024 da consumo de água de água por receita)",
+   "pag": "73",
+   "nota": "consumo de água: 578 em 2023 e 517 em 2024 (ML consumidos); receita líquida R$ 36768.1 mi (2023) e R$ 38038.1 mi (2024). Consumo de água em megalitros (redução de 10,4%); 74% de medição direta; abastecimento pela rede.",
+   "fonte": "MAGALU_ri2024.pdf"
+  },
+  "EF3": {
+   "valor": 0,
+   "unid": "% da receita líquida (sem casos relevantes de não conformidade; provisões não localizadas)",
+   "pag": "90",
+   "nota": "GRI 2-27: sem casos relevantes de não conformidade nem condenações com multas ≥ R$ 50 mi.",
+   "fonte": "MAGALU_ri2024.pdf"
+  }
+ },
+ "Movida": {
+  "SA1": {
+   "valor": 15.1,
+   "unid": "% resíduos não destinados à disposição final",
+   "pag": "95-96",
+   "nota": "159,2 t não destinadas à disposição final (reciclagem 138,3 + recuperação 20,9) de 1.054,15 t gerados; o total gerado inclui 710,6 t de misturas água-óleo convertidas de litros.",
+   "fonte": "MOVIDA_ri2024.pdf"
+  },
+  "SA2": {
+   "valor": 2553.5,
+   "unid": "tCO2e (escopo 1 + escopo 2 por localização)",
+   "pag": "56",
+   "nota": "Escopo 1 = 1.631,8; escopo 2 abordagem de localização = 921,7 tCO2e (escolha de compra = 0).",
+   "fonte": "MOVIDA_ri2024.pdf"
+  },
+  "SA3": {
+   "valor": 88.27,
+   "unid": "% da eletricidade renovável",
+   "pag": "95",
+   "nota": "Eletricidade renovável 59.103,78 de 66.961,04 (GJ) em 2024 (GRI 302-1).",
+   "fonte": "MOVIDA_ri2024.pdf"
+  },
+  "SA5": {
+   "valor": -26.48,
+   "unid": "% (variação 2023→2024 da consumo de água de água por receita)",
+   "pag": "98",
+   "nota": "consumo de água: 172.9 em 2023 e 165.7 em 2024 (ML (consumo total de água)); receita líquida R$ 10342.0 mi (2023) e R$ 13481.3 mi (2024). Consumo total de água de todas as áreas (GRI 303-5), em megalitros.",
+   "fonte": "MOVIDA_ri2024.pdf"
+  },
+  "EF3": {
+   "valor": 0,
+   "unid": "% da receita líquida (sem casos significativos de não conformidade; provisões não localizadas)",
+   "pag": "77",
+   "nota": "GRI 2-27: sem casos significativos de não conformidade com leis e regulamentos no período.",
+   "fonte": "MOVIDA_ri2024.pdf"
+  }
+ },
+ "Pague Menos": {
+  "SA1": {
+   "valor": 0.0,
+   "unid": "% resíduos recuperados/reciclados",
+   "pag": "112",
+   "nota": "Resíduos de 64,5 t registrados no sistema novo: perigosos 27,2 t incinerados sem recuperação de energia e não perigosos 37,3 t em aterro; nenhuma recuperação. Cobre apenas ~17,9% das operações (Fortaleza, São Luís, Teresina e 3 CDs): baixa representatividade.",
+   "fonte": "PAGUE_MENOS_ri2024.pdf"
+  },
+  "SA2": {
+   "valor": 9061.87,
+   "unid": "tCO2e (escopo 1 + escopo 2; abordagem não especificada)",
+   "pag": "118",
+   "nota": "Escopo 1 = 3.493,61 e escopo 2 = 5.568,26 tCO2e (2024).",
+   "fonte": "PAGUE_MENOS_ri2024.pdf"
+  },
+  "SA3": {
+   "valor": null,
+   "unid": "n/d",
+   "pag": "110",
+   "nota": "Relatório informa 668,8 mil GJ de energia e 54 usinas solares, mas a repartição (etanol + fotovoltaica vs rede) não permite calcular % de eletricidade renovável.",
+   "fonte": "PAGUE_MENOS_ri2024.pdf"
+  },
+  "SA5": {
+   "valor": 17.04,
+   "unid": "% (variação 2023→2024 da água adquirida de água por receita)",
+   "pag": "109",
+   "nota": "água adquirida: 127.8 em 2023 e 168.8 em 2024 (ML adquiridos de terceiros); receita líquida R$ 11202.1 mi (2023) e R$ 12641.8 mi (2024). Água adquirida (megalitros); exclui poços sem hidrômetro.",
+   "fonte": "PAGUE_MENOS_ri2024.pdf"
+  },
+  "EF3": {
+   "valor": 0.00024,
+   "unid": "% da receita líquida (multas ambientais pagas; provisões não localizadas)",
+   "pag": "151",
+   "nota": "6 multas ambientais em 2024 (5 pagas), R$ 30.832,75 pagos; receita líquida R$ 12641.8 mi.",
+   "fonte": "PAGUE_MENOS_ri2024.pdf"
+  }
+ },
+ "TIM": {
+  "SA1": {
+   "valor": 95,
+   "unid": "% resíduos reciclados ou reutilizados (declarado)",
+   "pag": "108",
+   "nota": "Nota da tabela GRI 306-3: 95% dos resíduos reciclados ou reutilizados; total 2.467 t; 122 t em aterro em 2024.",
+   "fonte": "TIM ESG 2024.pdf"
+  },
+  "SA2": {
+   "valor": 34931.28,
+   "unid": "tCO2e (escopo 1 + escopo 2 por localização, parâmetros do Grupo TIM)",
+   "pag": "97-98",
+   "nota": "Escopo 1 = 18.651,77 e escopo 2 (localização) = 16.279,51 tCO2e para a TIM S.A. segundo parâmetros do Grupo TIM (notas de rodapé); a tabela do relatório mostra escopo 1 = 16.618 (parâmetros regionais).",
+   "fonte": "TIM ESG 2024.pdf"
+  },
+  "SA3": {
+   "valor": 100,
+   "unid": "% da eletricidade renovável (compra com I-REC)",
+   "pag": "101",
+   "nota": "'Desde 2021, a TIM mantém 100% de energia elétrica renovável em sua operação, a partir da compra'.",
+   "fonte": "TIM ESG 2024.pdf"
+  },
+  "SA5": {
+   "valor": -9.81,
+   "unid": "% (variação 2023→2024 da consumo de água de água por receita)",
+   "pag": "93",
+   "nota": "consumo de água: 54 em 2023 e 52 em 2024 (mil m³ consumidos); receita líquida R$ 23833.9 mi (2023) e R$ 25447.9 mi (2024). Consumo de água (GRI 303-5) em mil m³: 54 (2023) e 52 (2024).",
+   "fonte": "TIM ESG 2024.pdf"
+  },
+  "EF3": {
+   "valor": 0,
+   "unid": "% da receita líquida (sem sanções monetárias ambientais significativas; provisões não localizadas)",
+   "pag": "80",
+   "nota": "GRI 2-27: 87 processos administrativos ambientais, nenhum com sanção monetária significativa (26 sem sanção monetária; 23 abaixo de R$ 500 mil; 38 encerrados). Multas totais R$ 5,9 mi referem-se ao conjunto de casos (Anatel etc.).",
+   "fonte": "TIM ESG 2024.pdf"
+  }
+ },
+ "CBA": {
+  "SA1": {
+   "valor": 19.35,
+   "unid": "% resíduos reciclados/reutilizados (reciclados ÷ (reciclados + dispostos))",
+   "pag": "aba WASTE AND CO-PRODUCTS (CBA-55)",
+   "nota": "2024: reciclados/reutilizados 153.567,2 t; dispostos 640.155,6 t (639.790,1 t em 'outras rotas', principalmente resíduos de bauxita/rejeitos). Rejeitos de mineração (778 mi t) reportados à parte e excluídos.",
+   "fonte": "CBA_Caderno_de_Indicadores_2024.xlsx"
+  },
+  "SA2": {
+   "valor": 1710900.0,
+   "unid": "tCO2e (escopo 1 + escopo 2 location-based)",
+   "pag": "aba CLIMATE CHANGE (GRI 305-1/2)",
+   "nota": "Escopo 1 = 1.341,9 mil tCO2e; escopo 2 location-based = 369,0 mil tCO2e (market-based = 0). 2024.",
+   "fonte": "CBA_Caderno_de_Indicadores_2024.xlsx"
+  },
+  "SA3": {
+   "valor": 100,
+   "unid": "% da eletricidade renovável (escopo 2 market-based zero)",
+   "pag": "aba CLIMATE CHANGE / RENEWABLE ENERGY",
+   "nota": "Escopo 2 market-based = 0 em 2024 (eletricidade 100% renovável certificada); consumo de eletricidade 100% renovável 6.641 (unidade da aba) dentro de total de energia de 9.345.",
+   "fonte": "CBA_Caderno_de_Indicadores_2024.xlsx"
+  },
+  "SA5": {
+   "valor": -12.16,
+   "unid": "% (variação 2023→2024 da captação de água por receita)",
+   "pag": "aba WATER RESOURCES (GRI 303-3/303-5)",
+   "nota": "captação: 2321.9 em 2023 e 2268.7 em 2024 (ML captados (captação total)); receita líquida R$ 7348.1 mi (2023) e R$ 8173.6 mi (2024). Captação total de água em megalitros (2023: 2.321,9; 2024: 2.268,7).",
+   "fonte": "CBA_Caderno_de_Indicadores_2024.xlsx"
+  },
+  "EF3": {
+   "valor": 9e-05,
+   "unid": "% da receita líquida (multas ambientais + passivo ambiental acumulado)",
+   "pag": "aba POLICY INFLUENCE (GRI 2-27)",
+   "nota": "1 multa ambiental em 2024 (R$ 7.541,86); passivo ambiental acumulado = 0. Receita líquida R$ 8173.6 mi.",
+   "fonte": "CBA_Caderno_de_Indicadores_2024.xlsx"
+  }
+ },
+ "AXS": {
+  "SA1": {
+   "valor": 59,
+   "unid": "% resíduos encaminhados à reciclagem/reutilização (declarado)",
+   "pag": "36",
+   "nota": "'Aproximadamente 59% dos resíduos foram encaminhados para reciclagem e/ou reutilização'; total gerado 53,75 t, relatado por fornecedores (obras). Baixa representatividade.",
+   "fonte": "AXS_ENERGIA_2024 (relatório em imagem, OCR)"
+  },
+  "SA2": {
+   "valor": 87.007,
+   "unid": "tCO2e (escopo 1 + escopo 2)",
+   "pag": "39",
+   "nota": "Escopo 1 = 83,107; escopo 2 = 3,900 tCO2e (2024; OCR). O total informado (93.847,184 com escopo 3 = 93.649,667) sugere 110,5 tCO2e adicionais não identificados (provável mudança de uso do solo, escopo 1). Controle operacional.",
+   "fonte": "AXS_ENERGIA_2024 (relatório em imagem, OCR)"
+  },
+  "SA3": {
+   "valor": null,
+   "unid": "n/d",
+   "pag": "—",
+   "nota": "Relatório não traz % de eletricidade renovável consumida.",
+   "fonte": "AXS_ENERGIA_2024 (relatório em imagem, OCR)"
+  },
+  "SA5": {
+   "valor": null,
+   "unid": "n/d",
+   "pag": "33",
+   "nota": "Sem série de captação 2023–2024 (apenas lavagem de usinas 0,012 ML/lavagem).",
+   "fonte": "AXS_ENERGIA_2024 (relatório em imagem, OCR)"
+  },
+  "EF3": {
+   "valor": 0,
+   "unid": "% da receita líquida (sem multas; provisões não localizadas)",
+   "pag": "27",
+   "nota": "GRI 2-27: sem não conformidade com leis e regulamentos aplicáveis, tampouco penalidades ou multas.",
+   "fonte": "AXS_ENERGIA_2024 (relatório em imagem, OCR)"
+  },
+  "EF4": {
+   "valor": null,
+   "unid": "n/d",
+   "pag": "79-80",
+   "nota": "Sem DFP na CVM; demonstrações no relatório são imagem (OCR ilegível para capital investido); empresa em fase inicial (prejuízo de R$ 13,8 mi em 2024, receita líquida de R$ 46,1 mi).",
+   "fonte": "AXS_ENERGIA_2024 (relatório em imagem, OCR)"
+  }
+ }
+}

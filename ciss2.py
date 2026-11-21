@@ -5,7 +5,7 @@ Algoritmo computacional para mensuração do grau de equilíbrio entre
 dimensões de sustentabilidade circular em organizações de qualquer setor.
 
 Fundamentação:
-  - Porto (2021): modelo CiSS original para o setor industrial
+  - Anonymous (2021): modelo CiSS original para o setor industrial
   - Ijiri (1975): Teoria da Mensuração Contábil — formalização axiomática
   - Geissdoerfer et al. (2017): Economia Circular × Sustentabilidade
   - Lynn (1986): protocolo IVC de validação de conteúdo
@@ -119,7 +119,7 @@ class Dimension:
     Exemplos de dimensões:
       Setor genérico : Econômica, Socioambiental, Governança
       Setor industrial: Econômica, Ambiental, Social, Ética, Governança,
-                        ERP, RCN, PPM  (Porto, 2021)
+                        ERP, RCN, PPM  (Anonymous, 2021)
       Setor financeiro: Econômico-Financeira, Socioambiental, Governança ESG
     """
     name       : str
@@ -325,7 +325,7 @@ def validate_against_reference(
 ) -> bool:
     """
     Fase 1 do protocolo de validação computacional:
-    verifica se o resultado reproduz o gabarito numérico de Porto (2021)
+    verifica se o resultado reproduz o gabarito numérico de Anonymous (2021)
     com precisão de seis casas decimais.
     """
     ok_sum = math.isclose(result.total_lorenz_sum, expected_lorenz_sum, rel_tol=tol)
@@ -467,7 +467,7 @@ def plot_lorenz(
                        edgecolor="#C8C0B4", linewidth=0.8))
 
     fig.text(0.5, 0.025,
-             "Fonte: CiSS 2.0 — adaptado de Porto (2021)  |  "
+             "Fonte: CiSS 2.0 — adaptado de Anonymous (2021)  |  "
              "Fundamentação: Ijiri (1975), Geissdoerfer et al. (2017)",
              ha="center", fontsize=7.5, color="#999999")
 
@@ -483,11 +483,11 @@ def plot_lorenz(
     plt.close(fig)
 
 
-# ── Demo — reproduz o gabarito numérico de Porto (2021) ──────────────────────
+# ── Demo — reproduz o gabarito numérico de Anonymous (2021) ──────────────────────
 
 def _demo(show_plot: bool = True, save_path: Optional[str] = None) -> None:
     """
-    Reproduz os resultados WEG 2018 e 2019 da planilha Excel de Porto (2021).
+    Reproduz os resultados WEG 2018 e 2019 da planilha Excel de Anonymous (2021).
 
     Cada dimensão é representada por um único indicador com peso = 1,
     cujo valor já é o Xi calculado na planilha original.
@@ -499,7 +499,7 @@ def _demo(show_plot: bool = True, save_path: Optional[str] = None) -> None:
     def dim(name: str, xi: float, scale: ScaleType = ScaleType.CLOSED,
             ec: str = "") -> Dimension:
         """
-        No gabarito de Porto (2021), os valores já são os scores Xi finais
+        No gabarito de Anonymous (2021), os valores já são os scores Xi finais
         calculados pela planilha Excel (médias ponderadas já transformadas).
         Por isso usamos CLOSED — sem nova transformação ln.
         """
@@ -541,17 +541,17 @@ def _demo(show_plot: bool = True, save_path: Optional[str] = None) -> None:
     print(compare(r2018, r2019))
 
     # Fase 1 — Validação computacional contra gabarito Excel
-    print("  Fase 1 — Validação computacional (gabarito Porto, 2021):")
+    print("  Fase 1 — Validação computacional (gabarito Anonymous, 2021):")
     validate_against_reference(r2019, 6.17851335375256,  0.22768583078092997)
     validate_against_reference(r2018, 4.86887977427801,  0.3913900282152487)
     print()
 
-    if show_plot:
-        print("  Abrindo Curva de Lorenz...")
+    if show_plot or save_path:
+        print("  Gerando Curva de Lorenz...")
         print("  (feche a janela para encerrar)\n")
         plot_lorenz(
             results=[r2019, r2018],
-            title="Curva de Lorenz — CiSS 2.0  |  WEG 2018 e 2019 (Porto, 2021)",
+            title="Curva de Lorenz — CiSS 2.0  |  WEG 2018 e 2019 (Anonymous, 2021)",
             save_path=save_path,
         )
 
@@ -561,7 +561,7 @@ def _demo(show_plot: bool = True, save_path: Optional[str] = None) -> None:
 def exemplo_generico() -> None:
     """
     Demonstra o uso do CiSS 2.0 para uma organização hipotética
-    com as 5 dimensões do MBL original de Porto (2021).
+    com as 5 dimensões do MBL original de Anonymous (2021).
 
     Ilustra o uso das três regras de normalização por ln:
       Econômica  → indicadores com grandezas abertas (R$)  → OPEN_POSITIVE
@@ -571,7 +571,7 @@ def exemplo_generico() -> None:
       Ética      → scores em escala fechada                 → CLOSED
     """
     print("\n" + "="*64)
-    print("  Exemplo genérico — 5 dimensões MBL (Porto, 2021)")
+    print("  Exemplo genérico — 5 dimensões MBL (Anonymous, 2021)")
     print("="*64)
 
     dim_econ = Dimension(

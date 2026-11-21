@@ -1,0 +1,12 @@
+Análise,Resultado,Observação
+Pesos – um por vez (±20%),ΔCiSS máx = 0.0231; Spearman mín = 0.981,"Critério do projeto: ΔCiSS < 0,05"
+Pesos – Monte Carlo (10.000 sorteios),"99.54% dos sorteios com ΔCiSS máx < 0,05; ΔCiSS máx = 0.0637; Spearman mín = 0.924 (p5 = 0.965; mediana = 0.988)","Sorteio de cada peso em [0,8; 1,2]; semente 20261120"
+Normalização – sem ln,Spearman = 0.920; ΔCiSS máx = 0.172,Reescala 0–1 sem logaritmo
+Normalização – z-score + FDA normal,Spearman = 0.730; ΔCiSS máx = 0.154,"z-score do valor transformado, convertido por função de distribuição normal"
+ROIC com alíquota efetiva,Spearman = 0.993; ΔCiSS máx = 0.033,Sensibilidade ao EF4
+Sem Auren e Azzas (ROIC distorcido),Spearman = 0.986; ΔCiSS máx = 0.017 (20 empresas),Fusões distorcem o capital investido
+Discriminação – CiSS,média 0.843; dp 0.122; mín 0.509; mediana 0.877; máx 0.958,22 empresas
+Discriminação – CiSS × média dos scores,Spearman = 0.595; Pearson = 0.687,Correlação < 1: o CiSS informa algo além do nível médio
+Consistência – EF (EF3 × EF4),n = 16; Spearman = 0.022,Dimensão com 2 indicadores
+Consistência – SA,n = 9; alfa = 0.102 (IC95% -2.84 a 0.70); ômega = 0.388,Apenas casos completos; amostra muito pequena; indicadores formativos
+Consistência – GV,n = 22; alfa = 0.738 (IC95% 0.29 a 0.88); ômega = 0.794,"Efeito teto: GV2, GV3, GV5 com 100 pontos em 17, 18 e 13 empresas"
