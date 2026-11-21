@@ -1,0 +1,18 @@
+indicator_code,indicator,ratings_3_or_4,n_raters,I_CVI,kappa_modified,status
+EF1,Investments in circular sustainability,8,9,0.889,0.887,Retained
+EF2,Revenue from circular products/services,6,8,0.750,0.719,Reformulate
+EF3,Exposure to socio-environmental risks,8,8,1.000,1.000,Retained
+EF4,Adjusted ROIC,8,9,0.889,0.887,Retained
+EF5,Avoided costs,7,8,0.875,0.871,Retained
+SA1,Recycling/reuse rate,9,9,1.000,1.000,Retained
+SA2,GHG emissions intensity,7,8,0.875,0.871,Retained
+SA3,Renewable energy,8,8,1.000,1.000,Retained
+SA4,Social inclusion in circular chains,6,8,0.750,0.719,Reformulate
+SA5,Reduction in resource consumption,8,9,0.889,0.887,Retained
+SA6,Local stakeholder perception,6,8,0.750,0.719,Reformulate
+GV1,Formal sustainability policy,9,9,1.000,1.000,Retained
+GV2,"Reporting quality (GRI, SASB, TCFD)",7,9,0.778,0.761,Borderline
+GV3,Integration into risk management,9,9,1.000,1.000,Retained
+GV4,Targets linked to variable pay,4,9,0.444,0.263,Revise or exclude
+GV5,Supplier transparency,9,9,1.000,1.000,Retained
+GV6,External indices and certifications,6,9,0.667,0.601,Revise or exclude

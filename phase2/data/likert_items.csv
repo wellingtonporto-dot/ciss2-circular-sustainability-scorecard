@@ -1,0 +1,19 @@
+item,statement_summary,n,percent_agree_or_strongly_agree,median
+M1,Gini/Lorenz adaptation suits the construct,7,71,4
+M2,Foundation in Ijiri (1975),7,71,4
+M3,CiSS and SC = 1 − CiSS distinction is interpretable,8,62,4
+M4,Python increases auditability and replicability,9,78,4
+N1,Natural-log normalization is adequate,8,88,4
+N2,The three normalization cases are clear and feasible,8,50,3.5
+N3,ln is preferable to min-max or z-score,8,50,3.5
+N4,Use of ln in the original CiSS validates the extension,7,29,3
+P1,PCA is the most adequate weighting approach,8,62,4
+P2,Expert weights are a valid alternative,8,88,4
+P3,Allow PCA or expert weights,8,75,4
+D1,Sector-specific dimensions are an advantage,8,88,5
+D2,Three dimensions are sufficient,8,88,4
+D3,"Add a fourth, circular-economy dimension",8,62,4
+G1,CiSS 2.0 is valid and useful for measurement,9,89,4
+G2,The four-phase protocol is adequate,9,78,5
+G3,Potential for adoption by managers and regulators,9,78,4
+G4,Open-source Python code favours adoption,9,89,5
