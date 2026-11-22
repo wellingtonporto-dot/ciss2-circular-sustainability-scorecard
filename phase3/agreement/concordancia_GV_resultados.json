@@ -1,0 +1,402 @@
+{
+ "n_unidades": 24,
+ "n_julgamentos": 96,
+ "geral": {
+  "pct_concordancia": 81.25,
+  "kappa": 0.07593582887700558,
+  "ac1": 0.7647699428260277,
+  "prevalencia_c1": 0.8854166666666666,
+  "prevalencia_c2": 0.8854166666666666,
+  "n_discordancias": 18,
+  "kappa_ic95": [
+   -0.12249443207126892,
+   0.3103448275862066
+  ],
+  "ac1_ic95": [
+   0.6497628602699745,
+   0.8633628776606068
+  ]
+ },
+ "icc": {
+  "ICC2_1": -0.19599999999999976,
+  "ICC3_1": -0.1863117870722431,
+  "n": 24,
+  "ICC2_1_ic95": [
+   -0.48390017780035577,
+   0.1612284069097885
+  ],
+  "ICC3_1_ic95": [
+   -0.46500915272593035,
+   0.1631067961165045
+  ],
+  "dif_media_abs_pontos": 18.75,
+  "pct_pontuacoes_identicas": 41.666666666666664
+ },
+ "por_indicador": {
+  "GV1": {
+   "n_unidades": 6,
+   "pct_concordancia": 75.0,
+   "kappa": 0.0,
+   "ac1": 0.68,
+   "ICC2_1": 0.0,
+   "n_discordancias": 6
+  },
+  "GV2": {
+   "n_unidades": 6,
+   "pct_concordancia": 91.66666666666666,
+   "kappa": 0.46666666666666606,
+   "ac1": 0.9016393442622952,
+   "ICC2_1": 0.3749999999999999,
+   "n_discordancias": 2
+  },
+  "GV3": {
+   "n_unidades": 6,
+   "pct_concordancia": 75.0,
+   "kappa": 0.0,
+   "ac1": 0.68,
+   "ICC2_1": 0.0,
+   "n_discordancias": 6
+  },
+  "GV5": {
+   "n_unidades": 6,
+   "pct_concordancia": 83.33333333333334,
+   "kappa": 0.2500000000000005,
+   "ac1": 0.7866666666666667,
+   "ICC2_1": 0.28571428571428575,
+   "n_discordancias": 4
+  }
+ },
+ "por_criterio": {
+  "GV1-C1": {
+   "concordam": 4,
+   "n": 6,
+   "pct": 66.66666666666667
+  },
+  "GV1-C2": {
+   "concordam": 2,
+   "n": 6,
+   "pct": 33.333333333333336
+  },
+  "GV1-C3": {
+   "concordam": 6,
+   "n": 6,
+   "pct": 100.0
+  },
+  "GV1-C4": {
+   "concordam": 6,
+   "n": 6,
+   "pct": 100.0
+  },
+  "GV2-C1": {
+   "concordam": 6,
+   "n": 6,
+   "pct": 100.0
+  },
+  "GV2-C2": {
+   "concordam": 6,
+   "n": 6,
+   "pct": 100.0
+  },
+  "GV2-C3": {
+   "concordam": 5,
+   "n": 6,
+   "pct": 83.33333333333333
+  },
+  "GV2-C4": {
+   "concordam": 5,
+   "n": 6,
+   "pct": 83.33333333333333
+  },
+  "GV3-C1": {
+   "concordam": 3,
+   "n": 6,
+   "pct": 50.0
+  },
+  "GV3-C2": {
+   "concordam": 5,
+   "n": 6,
+   "pct": 83.33333333333333
+  },
+  "GV3-C3": {
+   "concordam": 6,
+   "n": 6,
+   "pct": 100.0
+  },
+  "GV3-C4": {
+   "concordam": 4,
+   "n": 6,
+   "pct": 66.66666666666667
+  },
+  "GV5-C1": {
+   "concordam": 5,
+   "n": 6,
+   "pct": 83.33333333333333
+  },
+  "GV5-C2": {
+   "concordam": 6,
+   "n": 6,
+   "pct": 100.0
+  },
+  "GV5-C3": {
+   "concordam": 5,
+   "n": 6,
+   "pct": 83.33333333333333
+  },
+  "GV5-C4": {
+   "concordam": 4,
+   "n": 6,
+   "pct": 66.66666666666667
+  }
+ },
+ "por_empresa_exploratorio": [
+  {
+   "empresa": "Allos",
+   "GV_cod1": 87.5,
+   "GV_cod2": 87.5
+  },
+  {
+   "empresa": "C&A",
+   "GV_cod1": 100.0,
+   "GV_cod2": 93.75
+  },
+  {
+   "empresa": "Copasa",
+   "GV_cod1": 87.5,
+   "GV_cod2": 68.75
+  },
+  {
+   "empresa": "CPFL",
+   "GV_cod1": 81.25,
+   "GV_cod2": 100.0
+  },
+  {
+   "empresa": "Minerva Foods",
+   "GV_cod1": 93.75,
+   "GV_cod2": 87.5
+  },
+  {
+   "empresa": "Natura",
+   "GV_cod1": 81.25,
+   "GV_cod2": 93.75
+  }
+ ],
+ "por_empresa_exploratorio_ICC2_1": -0.13207547169811296,
+ "discordancias": [
+  {
+   "empresa": "Allos",
+   "indicador": "GV3",
+   "criterio": 4,
+   "texto_criterio": "O Conselho acompanha esses riscos de forma periódica",
+   "cod1": 25,
+   "cod2": 0,
+   "paginas_cod1": "47, 106 (matriz de riscos aprovada pelo Conselho, riscos ESG); 20, 39 (comissão/comitê de sustentabilidade e de auditoria e gestão de riscos); 119 (seca, escassez hídrica)",
+   "nota_cod1": "",
+   "paginas_cod2": "riscos, 44; comitê, 44; resíduos, 112 ,117, 121, 126",
+   "obs_cod2": "Existe um comitê que acompanha riscos, mas não diz textualmente que é o conselho"
+  },
+  {
+   "empresa": "Allos",
+   "indicador": "GV5",
+   "criterio": 4,
+   "texto_criterio": "Divulga o percentual de fornecedores avaliados",
+   "cod1": 0,
+   "cod2": 25,
+   "paginas_cod1": "37, 105 (código de conduta do fornecedor, aprovado em 2024); 105 (critérios ambientais); 132 (due diligence ESG monitorada)",
+   "nota_cod1": "C4: percentual de fornecedores avaliados não localizado.",
+   "paginas_cod2": "compliance, 105; contratação de fornecedores, 106; monitoramente, 106; divulgação, 107",
+   "obs_cod2": ""
+  },
+  {
+   "empresa": "C&A",
+   "indicador": "GV2",
+   "criterio": 4,
+   "texto_criterio": "Possui assegurança externa independente",
+   "cod1": 25,
+   "cod2": 0,
+   "paginas_cod1": "155 (GRI); 4, 151, 162 (SASB); 4, 36-39 (TCFD); 155, 167 (asseguração limitada)",
+   "nota_cod1": "",
+   "paginas_cod2": "GRI, 75 a 78; SASB, 151; tcdf, 151; ",
+   "obs_cod2": "não se refere \"assegurança\", mas auditoria externa"
+  },
+  {
+   "empresa": "Copasa",
+   "indicador": "GV1",
+   "criterio": 2,
+   "texto_criterio": "Aprovada pelo Conselho de Administração ou órgão equivalente",
+   "cod1": 0,
+   "cod2": 25,
+   "paginas_cod1": "30 (política de sustentabilidade); 165, 181 (economia circular); 37, 204 (compromissos, comitê clima)",
+   "nota_cod1": "C2: a política aprovada pelo Conselho citada na p.124 é a de saúde e segurança; aprovação da política de sustentabilidade não localizada.",
+   "paginas_cod2": "ESG, 38; acompanhamento conselho, 55; economia circular, 165; metas, 204",
+   "obs_cod2": ""
+  },
+  {
+   "empresa": "Copasa",
+   "indicador": "GV2",
+   "criterio": 3,
+   "texto_criterio": "Segue ou cita TCFD ou normas IFRS S1/S2 (ISSB)",
+   "cod1": 25,
+   "cod2": 0,
+   "paginas_cod1": "8, 53, 219-220 (GRI); sumário SASB; 208 (cita ISSB/IFRS S1-S2); 8 (asseguração externa)",
+   "nota_cod1": "",
+   "paginas_cod2": "GRI, 204 a 208; SASB, 209,210,216; asseguraça 237",
+   "obs_cod2": ""
+  },
+  {
+   "empresa": "Copasa",
+   "indicador": "GV3",
+   "criterio": 1,
+   "texto_criterio": "Riscos socioambientais ou climáticos estão no mapa de riscos corporativo",
+   "cod1": 25,
+   "cod2": 0,
+   "paginas_cod1": "55 (matriz de 36 riscos com impactos sociais e ambientais, reporte trimestral ao Conselho); 204 (comitê clima); 223-225 (riscos hídricos)",
+   "nota_cod1": "",
+   "paginas_cod2": "comitê de clima, 204; resíduos, 204, 209;",
+   "obs_cod2": "não tem um mapa de riscos, tem um manual que pode ter o mesmo fim; não localizado acompahamento de risco pelo conselho"
+  },
+  {
+   "empresa": "Copasa",
+   "indicador": "GV3",
+   "criterio": 4,
+   "texto_criterio": "O Conselho acompanha esses riscos de forma periódica",
+   "cod1": 25,
+   "cod2": 0,
+   "paginas_cod1": "55 (matriz de 36 riscos com impactos sociais e ambientais, reporte trimestral ao Conselho); 204 (comitê clima); 223-225 (riscos hídricos)",
+   "nota_cod1": "",
+   "paginas_cod2": "comitê de clima, 204; resíduos, 204, 209;",
+   "obs_cod2": "não tem um mapa de riscos, tem um manual que pode ter o mesmo fim; não localizado acompahamento de risco pelo conselho"
+  },
+  {
+   "empresa": "Copasa",
+   "indicador": "GV5",
+   "criterio": 3,
+   "texto_criterio": "Auditorias ou monitoramento de fornecedores",
+   "cod1": 25,
+   "cod2": 0,
+   "paginas_cod1": "67-68, 91 (código de conduta para fornecedores); 91, 235 (308-1); 68, 93 (due diligence, avaliação de desempenho ADCON)",
+   "nota_cod1": "C4: percentual de fornecedores avaliados não localizado.",
+   "paginas_cod2": "código de conduta, 10, 65, 66 e 67;",
+   "obs_cod2": "na página 10 diz que 144 fornecedores participaram de um sistema de gestão de compliance, mas isso não é avaliação"
+  },
+  {
+   "empresa": "CPFL",
+   "indicador": "GV1",
+   "criterio": 1,
+   "texto_criterio": "Existe política de sustentabilidade, ambiental ou ESG",
+   "cod1": 0,
+   "cod2": 25,
+   "paginas_cod1": "13, 48, 51 (plano ESG 2030, economia circular)",
+   "nota_cod1": "Política de sustentabilidade explícita não localizada. Regra: C3 e C4 avaliados no instrumento formal (plano ESG 2030).",
+   "paginas_cod2": "esg, 100; aprovação; 35; economia circular, 48; metas, 53",
+   "obs_cod2": ""
+  },
+  {
+   "empresa": "CPFL",
+   "indicador": "GV1",
+   "criterio": 2,
+   "texto_criterio": "Aprovada pelo Conselho de Administração ou órgão equivalente",
+   "cod1": 0,
+   "cod2": 25,
+   "paginas_cod1": "13, 48, 51 (plano ESG 2030, economia circular)",
+   "nota_cod1": "Política de sustentabilidade explícita não localizada. Regra: C3 e C4 avaliados no instrumento formal (plano ESG 2030).",
+   "paginas_cod2": "esg, 100; aprovação; 35; economia circular, 48; metas, 53",
+   "obs_cod2": ""
+  },
+  {
+   "empresa": "CPFL",
+   "indicador": "GV5",
+   "criterio": 1,
+   "texto_criterio": "Código de conduta para fornecedores",
+   "cod1": 0,
+   "cod2": 25,
+   "paginas_cod1": "54, 96 (critérios de sustentabilidade na seleção); 96-97 (auditorias); 54, 96 (92,1% dos críticos avaliados)",
+   "nota_cod1": "C1: código de conduta específico para fornecedores não localizado (código de conduta ética aplica-se a terceiros, p.39).",
+   "paginas_cod2": "conduta, 37,38; contratação, 96; auditorias, 96; divulgação, 96",
+   "obs_cod2": ""
+  },
+  {
+   "empresa": "Minerva Foods",
+   "indicador": "GV1",
+   "criterio": 2,
+   "texto_criterio": "Aprovada pelo Conselho de Administração ou órgão equivalente",
+   "cod1": 0,
+   "cod2": 25,
+   "paginas_cod1": "25 (política de sustentabilidade); 51, 74 (economia circular); 41, 43 (meta de redução)",
+   "nota_cod1": "C2: o Conselho aprova o código de ética (p.127); aprovação da política de sustentabilidade não localizada.",
+   "paginas_cod2": "esg, 25; aprovação, 4;  economia circular, 74,75, 78; metas, 134",
+   "obs_cod2": ""
+  },
+  {
+   "empresa": "Minerva Foods",
+   "indicador": "GV3",
+   "criterio": 1,
+   "texto_criterio": "Riscos socioambientais ou climáticos estão no mapa de riscos corporativo",
+   "cod1": 25,
+   "cod2": 0,
+   "paginas_cod1": "44 (mapeamento de riscos climáticos, TCFD); 25-26 (diretoria de sustentabilidade; Conselho avalia progresso); 171, 176 (risco hídrico); 133 (política de riscos aprovada pelo Conselho)",
+   "nota_cod1": "",
+   "paginas_cod2": "circularidade, 176; acompanhamento, 26",
+   "obs_cod2": "há um comitê de risco, mas não especifica claramente ambiental"
+  },
+  {
+   "empresa": "Minerva Foods",
+   "indicador": "GV3",
+   "criterio": 2,
+   "texto_criterio": "Há comitê ou área responsável pela gestão desses riscos",
+   "cod1": 25,
+   "cod2": 0,
+   "paginas_cod1": "44 (mapeamento de riscos climáticos, TCFD); 25-26 (diretoria de sustentabilidade; Conselho avalia progresso); 171, 176 (risco hídrico); 133 (política de riscos aprovada pelo Conselho)",
+   "nota_cod1": "",
+   "paginas_cod2": "circularidade, 176; acompanhamento, 26",
+   "obs_cod2": "há um comitê de risco, mas não especifica claramente ambiental"
+  },
+  {
+   "empresa": "Natura",
+   "indicador": "GV1",
+   "criterio": 1,
+   "texto_criterio": "Existe política de sustentabilidade, ambiental ou ESG",
+   "cod1": 0,
+   "cod2": 25,
+   "paginas_cod1": "8, 13, 45 (circularidade); 12, 46, 144 (compromissos públicos e metas)",
+   "nota_cod1": "Política de sustentabilidade explícita não localizada (o relatório cita política de gerenciamento de riscos e código de conduta aprovados pelo Conselho, p.31). Regra: C3 e C4 avaliados no instrumento formal (compromissos/estratégia).",
+   "paginas_cod2": "esg, 75,98; aprovação, 179; economia circular, 134; metas, 2 a24",
+   "obs_cod2": ""
+  },
+  {
+   "empresa": "Natura",
+   "indicador": "GV1",
+   "criterio": 2,
+   "texto_criterio": "Aprovada pelo Conselho de Administração ou órgão equivalente",
+   "cod1": 0,
+   "cod2": 25,
+   "paginas_cod1": "8, 13, 45 (circularidade); 12, 46, 144 (compromissos públicos e metas)",
+   "nota_cod1": "Política de sustentabilidade explícita não localizada (o relatório cita política de gerenciamento de riscos e código de conduta aprovados pelo Conselho, p.31). Regra: C3 e C4 avaliados no instrumento formal (compromissos/estratégia).",
+   "paginas_cod2": "esg, 75,98; aprovação, 179; economia circular, 134; metas, 2 a24",
+   "obs_cod2": ""
+  },
+  {
+   "empresa": "Natura",
+   "indicador": "GV3",
+   "criterio": 1,
+   "texto_criterio": "Riscos socioambientais ou climáticos estão no mapa de riscos corporativo",
+   "cod1": 25,
+   "cod2": 0,
+   "paginas_cod1": "3, 42 (gestão de riscos corporativos e risco climático); 31-32 (comitê de sustentabilidade); 147, 183 (riscos de cadeia e hídricos); 31 (Conselho)",
+   "nota_cod1": "",
+   "paginas_cod2": "comite de sustentabilidade, 31,32; circularidade, 69;acompanhamento, 89",
+   "obs_cod2": "há um comite de sustentabilidade, não há citação direta de mapa de riscos; uma diretoria acompanha o comitê de sustentabilidade, não há um referência direta aos riscos"
+  },
+  {
+   "empresa": "Natura",
+   "indicador": "GV5",
+   "criterio": 4,
+   "texto_criterio": "Divulga o percentual de fornecedores avaliados",
+   "cod1": 0,
+   "cod2": 25,
+   "paginas_cod1": "37, 147 (código de conduta para fornecedores); 79, 135, 147, 150 (critérios, homologação); 50, 135 (auditorias)",
+   "nota_cod1": "C4: percentual de fornecedores avaliados não localizado.",
+   "paginas_cod2": "código de conduta, 147; critérios, 150; monitoramento, 150; divulgação, 37, ",
+   "obs_cod2": ""
+  }
+ ]
+}
